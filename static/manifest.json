@@ -1,0 +1,22 @@
+{
+    "name": "RiskAtlas - Deprem Risk Analiz ve Uyarı Sistemi",
+    "short_name": "RiskAtlas",
+    "description": "Yapay zekâ destekli deprem risk analiz, canlı uyarı ve erişilebilir afet yönetim sistemi",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#06111f",
+    "theme_color": "#d90429",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/static/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/static/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
